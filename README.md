@@ -1,2 +1,0 @@
-# CodecademyReactJS
-Created with CodeSandbox
